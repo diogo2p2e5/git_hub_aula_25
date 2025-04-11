@@ -1,3 +1,3 @@
 # Primeiro README
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+esse repositório foi criado com o intuito de praticar a criação de repositórios no Git hub, utilizado o git.
